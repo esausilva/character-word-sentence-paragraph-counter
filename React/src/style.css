@@ -1,0 +1,12 @@
+body {
+  background: white;
+}
+
+p {
+  font-family: Lato;
+}
+
+textarea {
+  width: 100%;
+  font-size: 100%;
+}

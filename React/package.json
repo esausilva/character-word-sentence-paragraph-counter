@@ -1,0 +1,26 @@
+{
+  "name": "character-word-sentence-and-paragraph-counter",
+  "license": "MIT",
+  "author": {
+    "name": "Esau Silva",
+    "email": "esausilva85@gmail.com",
+    "url": "http://esausilva.com"
+  },
+  "description": "Counts characters, words, sentences and paragraphs in a given text, written in Vanilla JavaScript (ES6+) and React",
+  "homepage": "https://stackblitz.com/edit/character-word-sentence-and-paragraph-counter",
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "react-scripts": "1.0.10",
+    "ramda": "0.24.1",
+    "whatwg-fetch": "2.0.3"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
