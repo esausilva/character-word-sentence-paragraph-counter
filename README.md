@@ -1,4 +1,4 @@
-# Char, Word, Sentence and Paragraph Counter in JavaScript and React
+# Character, Word, Sentence and Paragraph Counter in Vanilla JavaScript and React
 
 > Counts characters, words, sentences and paragraphs in a given text, written in Vanilla JavaScript (ES6+) and React.
 
